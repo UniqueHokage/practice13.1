@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practice 13.1</string>
+    <string name="zad">Введите два катета</string>
+    <string name="Button">Вычислить</string>
+    <string name="toast1">Введите 1 катет</string>
+    <string name="toast2">Введите 2 катет</string>
+    <string name="toast3">Катет не может равняться нулю</string>
+    <string name="gipot">Гипотенуза</string>
+    <string name="perim">Периметр</string>
+    <string name="plosh">Площадь</string>
+</resources>
